@@ -3,7 +3,7 @@
 *From the book Hands-on machine learning with Scikit-Learn, Keras & TensorFlow by O'Reilly.*
 
 ### Context
-The [Synthetic Data Vault](https://sdv.dev/SDV/getting_started/index.html) created an API that allows its users to generate synthetic data with python. The goal of this github repo is to evaluate how well machine learning models that are trained on synthetic data evalute when tested on the test set of the original data. Three different synthetic data synthesizers are evaluated: FastML, Gaussian and CTGAN to which 9 different regressive machine learning are applied. Results are then compared between the machine learning models trained on the synthetic set and machine learning models trained on the original set when tested on the test set of the original dataset.
+The [Synthetic Data Vault](https://sdv.dev/SDV/getting_started/index.html) created an API that allows its users to generate synthetic data with python. The goal of this github repo is to evaluate how well machine learning models that are trained on synthetic data evaluate when tested on the test set of the original data. Three different synthetic data synthesizers are evaluated: FastML, Gaussian and CTGAN to which 9 different regressive machine learning are applied. Results are then compared between the machine learning models trained on the synthetic set and machine learning models trained on the original set when tested on the test set of the original dataset.
 
 ### Files you'll find 
 * README.md file 
